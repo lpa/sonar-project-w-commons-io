@@ -1,0 +1,2 @@
+Sample project with commons-io dependency to see whether sonar 4.2 analysis fails because of that
+
